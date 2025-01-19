@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  namne: self-raspberrypi
+  name: self-raspberrypi
 
 steps:
 - task: Maven@3
